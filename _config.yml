@@ -22,10 +22,10 @@ repository               : "lukebriccetti/lukebriccetti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "20230912-GUND-HEADSHOTS-KHM-0313_edited.JPG"
   name             : "Luke Briccetti"
   pronouns         : # example: "she/her"  
-  bio              : "I am broadly interested in research that uses social science to discover equitable pathways to address environmental problems. My research takes a social-ecological systems (SES) approach to understanding how hydrological system management decisions - including for flood mitigation action, beaver management, and stream crossing management practices - are shifting in response to global change factors."
+  bio              : "Writing and thinking about how people respond to global change - and how we can build resilience to it!"
   location         : "Burlington, VT"
   employer         : "University of Vermont"
   uri              : # URL
