@@ -23,13 +23,13 @@ repository               : "lukebriccetti/lukebriccetti.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Luke Briccetti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am broadly interested in research that uses social science to discover equitable pathways to address environmental problems. My research takes a social-ecological systems (SES) approach to understanding how hydrological system management decisions - including for flood mitigation action, beaver management, and stream crossing management practices - are shifting in response to global change factors."
+  location         : "Burlington, VT"
+  employer         : "University of Vermont"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "luke.briccetti@uvm.edu" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lukebriccetti"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "luke-briccetti-638a95156"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
